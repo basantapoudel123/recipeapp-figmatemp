@@ -1,5 +1,6 @@
 <script>
   import { Link } from "svelte-navigator";
+  // this is a check
 
   let name = "";
   let email = "";
